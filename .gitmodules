@@ -1,0 +1,8 @@
+[submodule "third_party/luajit/luajit"]
+	path = third_party/luajit/luajit
+	url = https://github.com/plctlab/LuaJIT.git
+	branch = v2.1-riscv64-pr
+[submodule "third_party/concurrency_kit/ck"]
+	path = third_party/concurrency_kit/ck
+	url = https://github.com/concurrencykit/ck.git
+	branch = master
